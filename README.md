@@ -1,18 +1,35 @@
-# Hi, I'm Anshul 👋 
+<div align="center">
+  <h1>Hi, I'm Anshul 👋</h1>
+  <p><b>CS/IT Student | Building & Learning</b></p>
 
-**Final Year CS Undergrad | Aspiring Software Engineer**
-I build scalable applications with a focus on clean architecture and performance. Currently exploring the intersection of [SWE/Data/Security].
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+My+Foundations;Solving+Algorithmic+Challenges;Experimenting+with+AI+and+ML;Turning+Logic+into+Code" alt="Typing SVG" />
 
-- 🛠️ **Tech Stack:** - **Languages:** Python, Java, JavaScript, C++
-  - **Frameworks:** React, Node.js, FastAPI
-  - **Tools:** Docker, Git, AWS
-- 🔭 **Current Focus:** Deep diving into Distributed Systems and System Design.
-- ⚡ **Fun Fact:** [Insert one non-cringe hobby, e.g., "I automate my boring tasks with Python scripts."]
+  <p>
+    <a href="https://www.linkedin.com/in/anshul-wankhede-503878378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:amwanshul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Projects & Contributions
-### 📫 Reach Out
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** [yourname@email.com]
-- **Portfolio:** [your-site.com]
+### 🏛️ About Me
+I am a final-year CS/IT student who believes that the best way to learn is by breaking things and putting them back together. I am currently focused on building a strong foundation in **Software Engineering** while diving deep into the world of **Data Science** and **Machine Learning**.
+
+- 🎓 **In the Lab:** Deep-diving into the Python data stack (**Pandas**, **NumPy**) to find stories in data.
+- 🏗️ **Foundations:** Applying **Java** and **OOP** principles to build clean, maintainable logic.
+- 🌱 **Current Goal:** Transitioning from writing "scripts" to building "systems."
+- 💬 **Ask me about:** My favorite Python automation, current LinkedIn learnings, or why I chose to explore AI/ML.
+
+---
+
+### 🛠️ Tech I'm Working With
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **AI/Data (Learning)**| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
+
+### 📫 Connect with me
+I'm always looking for interesting projects to contribute to or fellow students to learn from. Drop me a message on LinkedIn or shoot me an email!
