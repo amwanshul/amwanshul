@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anshul 👋 
 
-<!--
-**amwanshul/amwanshul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final Year CS Undergrad | Aspiring Software Engineer**
+I build scalable applications with a focus on clean architecture and performance. Currently exploring the intersection of [SWE/Data/Security].
 
-Here are some ideas to get you started:
+- 🛠️ **Tech Stack:** - **Languages:** Python, Java, JavaScript, C++
+  - **Frameworks:** React, Node.js, FastAPI
+  - **Tools:** Docker, Git, AWS
+- 🔭 **Current Focus:** Deep diving into Distributed Systems and System Design.
+- ⚡ **Fun Fact:** [Insert one non-cringe hobby, e.g., "I automate my boring tasks with Python scripts."]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects & Contributions
+### 📫 Reach Out
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** [yourname@email.com]
+- **Portfolio:** [your-site.com]
