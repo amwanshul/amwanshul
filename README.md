@@ -13,7 +13,7 @@
 ---
 
 ### 🏛️ About Me
-I am a final-year CS/IT student who believes that the best way to learn is by breaking things and putting them back together. I am currently focused on building a strong foundation in **Software Engineering** while diving deep into the world of **Data Science** and **Machine Learning**.
+I am a CS/IT student who believes that the best way to learn is by breaking things and putting them back together. I am currently focused on building a strong foundation in **Software Engineering** while diving deep into the world of **Data Science** and **Machine Learning**.
 
 - 🎓 **In the Lab:** Deep-diving into the Python data stack (**Pandas**, **NumPy**) to find stories in data.
 - 🏗️ **Foundations:** Applying **Java** and **OOP** principles to build clean, maintainable logic.
