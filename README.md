@@ -1,63 +1,153 @@
 <div align="center">
-  <h1>Hi, I'm Anshul 👋</h1>
-  <p><b>CS/IT Student | Building & Learning</b></p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+My+Foundations;Solving+Algorithmic+Challenges;Experimenting+with+AI+and+ML;Turning+Logic+into+Code" alt="Typing SVG" />
+# Hi, I'm Anshul 👋
 
-  <p>
-    <a href="https://www.linkedin.com/in/anshul-wankhede-503878378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:amwanshul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+### B.Tech CS/IT Student · AI/ML Explorer · Builder
+
+I like turning ideas into working systems — from AI agents and automation tools to algorithms and experiments.
+
+<a href="https://github.com/amwanshul">
+  <img src="https://komarev.com/ghpvc/?username=amwanshul&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://www.linkedin.com/in/anshul-wankhede-503878378">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:amwanshul@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amwanshul%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
-### 🏛️ About Me
-I am a CS/IT student who believes that the best way to learn is by breaking things and putting them back together. I am currently focused on building a strong foundation in **Software Engineering** while diving deep into the world of **Data Science** and **Machine Learning**.
+## `whoami`
 
-- 🎓 **In the Lab:** Building **Agentic Workflows** using the **Google GenAI SDK** and processing visual data.
-- 🏗️ **Foundations:** Applying **Java** and **OOP** principles to build clean, maintainable logic.
-- 🌱 **Current Goal:** Transitioning from writing "scripts" to building "systems."
-- 💬 **Ask me about:** My favorite Python automation, current LinkedIn learnings, or why I chose to explore AI/ML.
+```text
+Student      → B.Tech CS/IT
+Focus        → AI/ML · Intelligent Systems · Automation
+Build        → Tools that connect reasoning with real-world actions
+Currently    → Going deeper into Java, DSA, ML & software architecture
+Mindset      → Learn → Build → Break → Understand → Rebuild
+```
+
+I am a third-year engineering student exploring the space between **software engineering and intelligent systems**. I enjoy understanding how things work underneath the abstraction, then turning that understanding into something people can actually use.
+
+> **I don't want to just use AI. I want to understand how to build systems around it.**
 
 ---
 
-### 🚀 Featured Project
+## ⚡ What I'm Building
+
+### 🧠 [Sypher](https://github.com/amwanshul/Sypher)
+
+An AI-powered desktop automation system designed to turn natural-language commands into real actions on a Windows machine.
+
+**Voice · Vision · Tools · Automation · Local System Control**
+
+- 🎙️ Voice and text interaction
+- 👁️ OCR / visual understanding
+- 🛠️ Tool-based action execution
+- 🖥️ Windows automation and file operations
+- 🔌 FastAPI + WebSocket backend with a modern web UI
+
+<a href="https://github.com/amwanshul/Sypher"><img src="https://img.shields.io/badge/Explore_Sypher-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Sypher" /></a>
+
+---
+
+## 🧩 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" alt="Languages" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and data" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind,nodejs,git,github,docker,vscode" alt="Development tools" />
+</p>
+
+---
+
+## 📌 Featured Work
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Sypher](https://github.com/amwanshul/Sypher)** | AI desktop automation & agentic control | Python · FastAPI · WebSockets |
+| **[Leetcode](https://github.com/amwanshul/Leetcode)** | DSA practice and problem solving | C++ |
+
+> More projects are being built. I'd rather showcase a few real projects than a wall of unfinished repositories.
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="100%" align="center">
-        <h3>🤖 Sypher: Next-Gen AI System Controller</h3>
-        <p><i>An autonomous voice-driven AI agent that sees, hears, and controls your Windows environment using Gemini Pro.</i></p>
-        <p>
-          <a href="https://github.com/amwanshul/Sypher">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <br />
-        <code>Voice-to-Execution</code> • <code>Multi-Modal Vision</code> • <code>Agentic Loop</code> • <code>Python</code>
-      </td>
-    </tr>
-  </table>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amwanshul&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Anshul's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amwanshul&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amwanshul&hide_border=true&theme=transparent" alt="GitHub streak" />
+
 </div>
 
-- **The Problem:** Traditional LLMs are trapped in a chat box; they can't "do" anything on your PC.
-- **The Solution:** Sypher breaks the box by connecting an LLM reasoning engine to local Windows APIs.
-- **Impact:** Automates workflows, manages files, and interacts with the web via natural voice commands.
+---
+
+## 🐍 Contribution Trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
 
 ---
 
-### 🛠️ Tech I'm Working With
+## 🌱 Currently Learning
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **AI & Agentic** | ![Gemini](https://img.shields.io/badge/-Gemini_Pro-8E75B2?style=flat-square&logo=google-gemini&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) |
-| **Vision & Audio** | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyAudio](https://img.shields.io/badge/-PyAudio-3776AB?style=flat-square&logo=python&logoColor=white) ![Tesseract](https://img.shields.io/badge/-Tesseract_OCR-217346?style=flat-square) |
-| **Data & Automation**| ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **Tools & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+```yaml
+Deepening:
+  - Data Structures & Algorithms
+  - Java & Object-Oriented Design
+  - Machine Learning fundamentals
+  - Software architecture
+
+Exploring:
+  - AI agents & tool calling
+  - Multimodal systems
+  - Computer vision
+  - Intelligent automation
+
+Goal:
+  - Build fewer demos and more complete systems
+```
 
 ---
 
-### 📫 Connect with me
-I'm always looking for interesting projects to contribute to or fellow students to learn from. Drop me a message on LinkedIn or shoot me an email!
+## 🤝 Let's Connect
+
+I'm always interested in **interesting projects, hackathons, AI/ML experiments, open-source work, and people who enjoy building things from scratch.**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anshul-wankhede-503878378">LinkedIn</a> ·
+<a href="mailto:amwanshul@gmail.com">Email</a> ·
+<a href="https://github.com/amwanshul">GitHub</a>
+
+<br/><br/>
+
+<sub>Built with curiosity, caffeine, and a questionable number of terminal windows.</sub>
+
+</div>
