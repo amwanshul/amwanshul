@@ -3,7 +3,7 @@
 # Hi there, I'm <span style="color: #38bdf8;">Anshul Wankhede</span> 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agents+%26+System+Controllers;Evidence-First+RAG+%26+Information+Retrieval;From+Mathematical+First-Principles+to+Production;Algorithmic+Problem+Solving+in+Modern+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Autonomous+AI+Agents+%26+System+Controllers;Network+Security+%26+Packet+Analysis;Evidence-First+RAG+%26+Information+Retrieval;From+Mathematical+First-Principles+to+Production;Algorithmic+Problem+Solving+in+Modern+C%2B%2B" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -45,8 +45,8 @@ problem → mathematical foundations → system architecture → prototype → b
       <p>Engineering enterprise retrieval pipelines with hybrid lexical/dense search (BM25 + Dense), Reciprocal Rank Fusion (RRF), cross-encoder reranking, and empirical evaluation (Recall@K / MRR).</p>
     </td>
     <td width="33%" valign="top">
-      <h3>⚡ Systems & Algorithms</h3>
-      <p>Implementing machine learning models from raw mathematical scratch (gradient descent, loss surfaces), building low-latency FastAPI services, and mastering C++ algorithmic patterns.</p>
+      <h3>🛡️ Network Security & Systems</h3>
+      <p>Building packet analysis engines, stateful TCP flow trackers, and heuristic intrusion detection systems, alongside low-level C++ algorithmic patterns and mathematical ML optimization from scratch.</p>
     </td>
   </tr>
 </table>
@@ -98,6 +98,7 @@ Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion
 |---|---|---|---|
 | 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous Agent | Multimodal screen perception, Gemini reasoning, and AST-secured OS execution | `Python` · `Gemini` · `FastAPI` · `WebSockets` |
 | 📚 **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** | Enterprise Retrieval | Hybrid BM25/Dense search, RRF fusion, cross-encoder reranker & Recall@5 eval | `Python` · `BM25` · `RRF` · `FastAPI` · `CI/CD` |
+| 🛡️ **[Sentinel IDS](https://github.com/amwanshul/sentinel-ids)** | Network Security & IDS | Zero-dependency L2-L7 packet decoder, stateful TCP flow tracking, Port scan, SYN flood, ARP spoofing & DNS entropy heuristics | `Python` · `TCP/IP` · `PCAP` · `Network Forensics` · `CI/CD` |
 | 🤖 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML From Scratch | Gradient descent, MSE loss, binary cross-entropy, custom standardizer & metrics | `Python` · `NumPy` · `Linear Algebra` |
 | 🔎 **[Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)** | Information Retrieval | Inverted index vocabulary, TF-IDF weighting, L2 normalization & cosine ranking | `Python` · `NumPy` · `FastAPI` |
 | 👁️ **[Vision Inspector](https://github.com/amwanshul/vision-inspector)** | Computer Vision | Classical Canny edge detection, contour geometry, circularity metric & CLI | `Python` · `OpenCV` · `Image Processing` |
@@ -115,6 +116,7 @@ Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion
 
 - **Core Languages**: Python, C++ (17/20), C, Java, SQL, JavaScript/TypeScript
 - **AI, ML & Retrieval**: RAG Architectures, Hybrid Search (BM25 + Dense), Cross-Encoders, PyTorch, scikit-learn, OpenCV, NumPy, Pandas, Transformers
+- **Networks & Security**: TCP/IP (L2-L7), Raw Sockets, PCAP Analysis, Network Forensics, Intrusion Detection, ARP/DNS Security
 - **Backend & DevOps**: FastAPI, RESTful APIs, WebSockets, Docker, Git/GitHub, Linux Environments, GitHub Actions CI/CD
 
 ---
