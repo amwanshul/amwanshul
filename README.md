@@ -96,7 +96,7 @@ Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion
 
 | Repository | Focus Area | Key Architectural Signal | Stack |
 |---|---|---|---|
-| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous Agent | Multimodal screen perception, Gemini reasoning, and AST-secured OS execution | `Python` · `Gemini` · `FastAPI` · `WebSockets` |
+| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous Agent | Multimodal screen perception, Gemini reasoning, and AST-secured OS execution | `Python` · `Gemini` · `FastAPI` · `WebSockets` |\n| 🤖 **[Agentic Research System](https://github.com/amwanshul/agentic-research-system)** | Autonomous AI Agents | Directed state graph, self-reflection critique loops, AST sandbox & OpenTelemetry tracing | `Python` · `State Graphs` · `Tracing` · `CI/CD` |
 | 📚 **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** | Enterprise Retrieval | Hybrid BM25/Dense search, RRF fusion, cross-encoder reranker & Recall@5 eval | `Python` · `BM25` · `RRF` · `FastAPI` · `CI/CD` |
 | 🛡️ **[Sentinel IDS](https://github.com/amwanshul/sentinel-ids)** | Network Security & IDS | Zero-dependency L2-L7 packet decoder, stateful TCP flow tracking, Port scan, SYN flood, ARP spoofing & DNS entropy heuristics | `Python` · `TCP/IP` · `PCAP` · `Network Forensics` · `CI/CD` |
 | 🤖 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML From Scratch | Gradient descent, MSE loss, binary cross-entropy, custom standardizer & metrics | `Python` · `NumPy` · `Linear Algebra` |
