@@ -1,153 +1,62 @@
-<div align="center">
+# Hi, I'm Anshul
 
-# Hi, I'm Anshul 👋
+### B.Tech CS/IT Student · AI/ML · Intelligent Systems
 
-### B.Tech CS/IT Student · AI/ML Explorer · Builder
+I like turning ideas into working systems — especially where **machine learning, software engineering, and automation** overlap.
 
-I like turning ideas into working systems — from AI agents and automation tools to algorithms and experiments.
-
-<a href="https://github.com/amwanshul">
-  <img src="https://komarev.com/ghpvc/?username=amwanshul&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
-</a>
-<a href="https://www.linkedin.com/in/anshul-wankhede-503878378">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:amwanshul@gmail.com">
-  <img src="https://img.shields.io/badge/Email-amwanshul%40gmail.com-161b22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+My current focus is on building projects that help me understand both the **models underneath** and the **systems around them**.
 
 ---
 
-## `whoami`
+## What I'm working on
 
-```text
-Student      → B.Tech CS/IT
-Focus        → AI/ML · Intelligent Systems · Automation
-Build        → Tools that connect reasoning with real-world actions
-Currently    → Going deeper into Java, DSA, ML & software architecture
-Mindset      → Learn → Build → Break → Understand → Rebuild
-```
+- **AI / ML** — fundamentals, model evaluation, experimentation
+- **Intelligent systems** — agents, tool calling, multimodal workflows
+- **Backend engineering** — Python, FastAPI, APIs, WebSockets
+- **Problem solving** — C++ and data structures & algorithms
+- **Software architecture** — turning prototypes into maintainable systems
 
-I am a third-year engineering student exploring the space between **software engineering and intelligent systems**. I enjoy understanding how things work underneath the abstraction, then turning that understanding into something people can actually use.
+## Featured projects
 
-> **I don't want to just use AI. I want to understand how to build systems around it.**
+| Project | What it demonstrates |
+| --- | --- |
+| [Sypher](https://github.com/amwanshul/Sypher) | AI-powered desktop automation, tool execution, security and system integration |
+| [ML Foundations](https://github.com/amwanshul/ml-foundations) | Linear/logistic regression, gradient descent, preprocessing and evaluation implemented transparently |
+| [Leetcode](https://github.com/amwanshul/Leetcode) | Ongoing C++ DSA practice and problem-solving |
 
----
-
-## ⚡ What I'm Building
-
-### 🧠 [Sypher](https://github.com/amwanshul/Sypher)
-
-An AI-powered desktop automation system designed to turn natural-language commands into real actions on a Windows machine.
-
-**Voice · Vision · Tools · Automation · Local System Control**
-
-- 🎙️ Voice and text interaction
-- 👁️ OCR / visual understanding
-- 🛠️ Tool-based action execution
-- 🖥️ Windows automation and file operations
-- 🔌 FastAPI + WebSocket backend with a modern web UI
-
-<a href="https://github.com/amwanshul/Sypher"><img src="https://img.shields.io/badge/Explore_Sypher-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Sypher" /></a>
+> I prefer a few projects I can explain deeply over a large collection of tutorial repositories.
 
 ---
 
-## 🧩 Tech Stack
+## Tech
 
-### Languages
+**Languages:** Python · C++ · C · Java · SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,sql" alt="Languages" />
-</p>
+**AI / Data:** NumPy · Pandas · scikit-learn · OpenCV
 
-### AI / Data
+**Backend / Web:** FastAPI · Flask · Next.js · React · Tailwind CSS · WebSockets
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="AI and data" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind,nodejs,git,github,docker,vscode" alt="Development tools" />
-</p>
+**Tools:** Git · GitHub · Docker · VS Code
 
 ---
 
-## 📌 Featured Work
+## Currently learning
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Sypher](https://github.com/amwanshul/Sypher)** | AI desktop automation & agentic control | Python · FastAPI · WebSockets |
-| **[Leetcode](https://github.com/amwanshul/Leetcode)** | DSA practice and problem solving | C++ |
-
-> More projects are being built. I'd rather showcase a few real projects than a wall of unfinished repositories.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amwanshul&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Anshul's GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amwanshul&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amwanshul&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-</div>
+- Data structures & algorithms
+- Machine learning fundamentals
+- Java & object-oriented design
+- DBMS and software architecture
+- AI agents and multimodal systems
 
 ---
 
-## 🐍 Contribution Trail
+## Connect
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/amwanshul)
+- [GitHub](https://github.com/amwanshul)
 
 ---
 
-## 🌱 Currently Learning
+### Build → understand → iterate
 
-```yaml
-Deepening:
-  - Data Structures & Algorithms
-  - Java & Object-Oriented Design
-  - Machine Learning fundamentals
-  - Software architecture
-
-Exploring:
-  - AI agents & tool calling
-  - Multimodal systems
-  - Computer vision
-  - Intelligent automation
-
-Goal:
-  - Build fewer demos and more complete systems
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in **interesting projects, hackathons, AI/ML experiments, open-source work, and people who enjoy building things from scratch.**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/anshul-wankhede-503878378">LinkedIn</a> ·
-<a href="mailto:amwanshul@gmail.com">Email</a> ·
-<a href="https://github.com/amwanshul">GitHub</a>
-
-<br/><br/>
-
-<sub>Built with curiosity, caffeine, and a questionable number of terminal windows.</sub>
-
-</div>
+I’m interested in internships, collaborations, hackathons, and technically interesting projects where I can learn by building.
