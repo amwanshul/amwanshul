@@ -1,34 +1,43 @@
 # Hi, I'm Anshul
 
-### B.Tech CS/IT Student · AI/ML · Intelligent Systems
+### B.Tech CS/IT Student · AI/ML · Intelligent Systems · Backend
 
-I like turning ideas into working systems — especially where **machine learning, software engineering, and automation** overlap.
+I build practical software at the intersection of **AI/ML, automation, backend engineering, and problem solving**.
 
-My current focus is on building projects that help me understand both the **models underneath** and the **systems around them**.
-
----
-
-## What I'm working on
-
-- **AI / ML** — fundamentals, model evaluation, experimentation
-- **Intelligent systems** — agents, tool calling, multimodal workflows
-- **Backend engineering** — Python, FastAPI, APIs, WebSockets
-- **Problem solving** — C++ and data structures & algorithms
-- **Software architecture** — turning prototypes into maintainable systems
-
-## Featured projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [Sypher](https://github.com/amwanshul/Sypher) | AI-powered desktop automation, tool execution, security and system integration |
-| [ML Foundations](https://github.com/amwanshul/ml-foundations) | Linear/logistic regression, gradient descent, preprocessing and evaluation implemented transparently |
-| [Leetcode](https://github.com/amwanshul/Leetcode) | Ongoing C++ DSA practice and problem-solving |
-
-> I prefer a few projects I can explain deeply over a large collection of tutorial repositories.
+I care about understanding what happens underneath the abstractions — from gradient descent and retrieval algorithms to APIs, WebSockets, and desktop automation.
 
 ---
 
-## Tech
+## Featured work
+
+### [Sypher](https://github.com/amwanshul/Sypher)
+AI-powered desktop automation system combining natural-language commands, tool execution, multimodal input, and local system control.
+
+**Python · FastAPI · WebSockets · AI · Automation**
+
+### [ML Foundations](https://github.com/amwanshul/ml-foundations)
+Transparent implementations of linear/logistic regression, gradient descent, preprocessing and evaluation.
+
+**Python · NumPy · Machine Learning · Mathematics**
+
+### [Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)
+A from-scratch TF-IDF retrieval engine exposed through a FastAPI service.
+
+**Python · NumPy · Information Retrieval · FastAPI**
+
+### [Vision Inspector](https://github.com/amwanshul/vision-inspector)
+Classical computer-vision pipeline for edge detection, contours, geometric measurements and simple shape analysis.
+
+**Python · OpenCV · Computer Vision**
+
+### [LeetCode](https://github.com/amwanshul/Leetcode)
+Ongoing C++ data-structures and algorithms practice, organized around problem-solving patterns.
+
+**C++ · DSA · Algorithms**
+
+---
+
+## Technical toolkit
 
 **Languages:** Python · C++ · C · Java · SQL
 
@@ -40,23 +49,27 @@ My current focus is on building projects that help me understand both the **mode
 
 ---
 
-## Currently learning
+## Currently exploring
 
-- Data structures & algorithms
-- Machine learning fundamentals
-- Java & object-oriented design
+- Machine-learning fundamentals and model evaluation
+- Retrieval and intelligent systems
+- AI agents and multimodal workflows
+- Data structures & algorithms in C++
+- Java and object-oriented design
 - DBMS and software architecture
-- AI agents and multimodal systems
+
+---
+
+## Engineering philosophy
+
+> **Build → understand → measure → iterate.**
+
+I prefer a smaller set of projects I can explain deeply over a large collection of tutorial repositories.
 
 ---
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/amwanshul)
-- [GitHub](https://github.com/amwanshul)
+[LinkedIn](https://www.linkedin.com/in/amwanshul) · [GitHub](https://github.com/amwanshul)
 
----
-
-### Build → understand → iterate
-
-I’m interested in internships, collaborations, hackathons, and technically interesting projects where I can learn by building.
+Interested in internships, collaborations, hackathons, and technically interesting projects.
