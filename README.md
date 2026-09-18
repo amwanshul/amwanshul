@@ -2,9 +2,9 @@
 
 # Hey, I'm Anshul 👋
 
-### Building AI systems, backend tools & slightly questionable side projects.
+### Building AI systems, retrieval pipelines & production backend architectures.
 
-**B.Tech CS/IT @ VIT Pune · AI/ML · Backend · Automation · C++**
+**B.Tech @ VIT Pune · AI/ML · Systems & Agentic Workflows · Backend Engineering · C++**
 
 [![GitHub](https://img.shields.io/badge/GitHub-amwanshul-181717?style=flat-square&logo=github)](https://github.com/amwanshul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshul%20Wankhede-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amwanshul)
@@ -15,89 +15,82 @@
 
 ## 🧠 What I'm about
 
-I like taking an idea from **"wouldn't it be cool if..."** to something that actually runs.
+I like taking an idea from **"wouldn't it be cool if..."** to robust, production-style software that actually runs.
 
-Right now I'm exploring the space between **AI/ML, intelligent systems, backend engineering and automation** — while strengthening the fundamentals underneath them.
+Right now, I'm focused on the intersection of **AI/ML, agentic workflows, retrieval systems (RAG), and backend engineering** — while strengthening the underlying mathematical and algorithmic fundamentals.
 
-\`\`\`text
-idea → prototype → break it → figure out why → rebuild → ship
-\`\`\`
+```text
+problem → architecture → prototype → break it → figure out why → optimize → ship
+```
 
-I care less about collecting technologies and more about being able to answer:
+I care less about collecting superficial abstractions and more about being able to answer:
 
 > **"What's actually happening under the hood?"**
 
 ---
 
-## 🚀 Things I've been building
+## 🚀 Featured Engineering Projects
 
-| Project | What it is | Stack |
+| Project | What it is | Key Highlights & Stack |
 |---|---|---|
-| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | AI-powered desktop automation & natural-language control | Python · FastAPI · WebSockets · AI |
-| 🤖 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML algorithms implemented from scratch | Python · NumPy · Mathematics |
-| 🔎 **[Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)** | TF-IDF retrieval + ranking exposed as an API | Python · NumPy · FastAPI |
-| 👁️ **[Vision Inspector](https://github.com/amwanshul/vision-inspector)** | Classical computer-vision image inspection | Python · OpenCV |
-| 🧩 **[LeetCode](https://github.com/amwanshul/Leetcode)** | Ongoing DSA practice in C++ | C++ · Algorithms |
+| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous AI system controller for Windows | Multimodal (voice + screen OCR), Gemini reasoning, safe action execution & AST validation<br>`Python · Gemini Pro · Agentic Loops · FastAPI · WebSockets` |
+| 📚 **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** | Evidence-first hybrid RAG & retrieval engine | BM25 + Dense retrieval, Reciprocal Rank Fusion (RRF), Cross-Encoder reranking, citation provenance, abstention & golden eval (Recall@5 & MRR)<br>`Python · RAG · RRF · Cross-Encoder · FastAPI · GitHub Actions` |
+| 🤖 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML algorithms implemented from mathematical scratch | Transparent gradient descent, linear & logistic regressions, explicit feature standardizer & evaluation metrics<br>`Python · NumPy · Linear Algebra · Numerical Optimization` |
+| 🔎 **[Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)** | Transparent document retrieval & ranking API | Inverted vocabulary, TF-IDF weighting, vector normalization, cosine similarity ranking & FastAPI serving<br>`Python · Information Retrieval · NumPy · FastAPI` |
+| 👁️ **[Vision Inspector](https://github.com/amwanshul/vision-inspector)** | Classical computer-vision image inspection pipeline | Canny edge detection, contour geometry, circularity metric & bounding box analysis<br>`Python · OpenCV · Image Processing` |
+| 🧩 **[LeetCode](https://github.com/amwanshul/Leetcode)** | Algorithmic problem-solving in modern C++ | Curated implementations categorized by core patterns (two-pointers, hashing, sorting)<br>`C++ · Data Structures & Algorithms` |
 
-### ⭐ Start here
-
-**[Sypher](https://github.com/amwanshul/Sypher)** is the project that best represents what I'm trying to build: an AI-driven desktop assistant that connects natural-language intent with actual system actions.
+### ⭐ Highlighted Focus
+- **[Sypher](https://github.com/amwanshul/Sypher)** demonstrates end-to-end agentic execution — connecting natural-language multimodal intent directly to OS-level system control with safety sandboxing.
+- **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** demonstrates enterprise retrieval engineering — focusing on citation grounding, abstention when evidence is lacking, and measurable retrieval benchmarks.
 
 ---
 
-## 🛠️ Tech I use
+## 🛠️ Technical Toolkit
 
 ### Languages
-Python · C++ · C · Java · SQL
+Python · C++ · C · Java · SQL · JavaScript/TypeScript
 
-### AI / Data
-NumPy · Pandas · scikit-learn · OpenCV
+### AI, ML & Retrieval
+RAG Pipelines · Hybrid Search (BM25 + Dense) · Cross-Encoder Reranking · Agentic Workflows · PyTorch · scikit-learn · OpenCV · NumPy · Pandas
 
-### Backend / Web
-FastAPI · Flask · React · Next.js · Tailwind CSS · WebSockets
-
-### Tools
-Git · GitHub · Docker · VS Code
+### Backend & Infrastructure
+FastAPI · REST APIs · WebSockets · Docker · Git/GitHub · Linux · CI/CD (GitHub Actions)
 
 ---
 
-## 🔬 Currently exploring
+## 🔬 What I'm Exploring Right Now
 
-**AI / ML**
-- Machine-learning fundamentals beyond high-level APIs
-- Model evaluation & experimentation
-- Retrieval and intelligent systems
-- Multimodal AI workflows
+**AI Engineering & Intelligent Systems**
+- Multi-agent orchestration, state graphs & reflection loops
+- Retrieval evaluation, hallucination detection & citation verification
+- LLM observability, latency profiling & cost tracking
+- Fine-tuning & parameter-efficient adaptation (LoRA / QLoRA)
 
-**Engineering**
-- Backend architecture
-- APIs & WebSockets
-- System design fundamentals
-- Building software that is actually usable
-
-**Fundamentals**
-- DSA in C++
-- Java & OOP
-- DBMS
-- The mathematics behind ML
+**Systems & Foundations**
+- Low-latency API design & concurrency patterns
+- Algorithmic problem solving and data structures in C++
+- Scalable data pipelines & distributed systems fundamentals
 
 ---
 
-## 🧪 I learn by building
+## 🧪 I Learn By Building
 
 Instead of stopping at:
+```python
+model.fit(X, y)
+```
 
-\`model.fit()\`
+I want to master the entire pipeline:
+```text
+data → representation → objective function → gradient optimization → evaluation → failure analysis
+```
 
-I want to understand:
-
-\`data → representation → objective → optimization → evaluation → failure\`
-
-That's why some of my repositories deliberately implement concepts from scratch before reaching for the library abstraction.
+That's why my repositories deliberately build from first principles before reaching for high-level library abstractions.
 
 ---
 
-## 📊 A little GitHub nerdiness
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
 
@@ -108,43 +101,10 @@ That's why some of my repositories deliberately implement concepts from scratch 
 
 ---
 
-## 🎯 The roadmap
-
-\`\`\`text
-NOW
- │
- ├── Build deeper AI/ML projects
- ├── Get much better at DSA
- ├── Turn experiments into polished software
- ├── Contribute to interesting projects
- │
- ▼
-NEXT
- │
- ├── More intelligent systems
- ├── Better backend architecture
- ├── Open-source contributions
- └── Something ambitious enough to scare me
-\`\`\`
-
----
-
-## ⚡ Outside the code
-
-- 🎓 Student, builder & professional overthinker
-- 🧠 Usually learning something I don't completely understand yet
-- 🛠️ Prefer building over watching another 4-hour tutorial
-- 🐛 Bugs are just unplanned features with documentation pending
-- ☕ Somehow every "small project" becomes a system
-
----
-
 <div align="center">
 
 ### build → learn → break → repeat
 
-**If something here looks interesting, open the repo.**
-
-<sub>Always learning. Always building. Occasionally questioning why I started.</sub>
+<sub>Feel free to explore the repositories, run the tests, and check out the code.</sub>
 
 </div>
