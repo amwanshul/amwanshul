@@ -32,6 +32,13 @@ problem → mathematical foundations → system architecture → prototype → b
 
 ---
 
+## 🧭 Latest Engineering Work
+
+Recent work is tracked here to keep the profile tied to concrete engineering output rather than static skill claims.
+
+- **2026-09-19 — [LeetCode #70: Climbing Stairs](https://github.com/amwanshul/Leetcode/tree/main/0070-climbing-stairs):** added a constant-space dynamic-programming solution and documented the state-compression pattern.
+- **2026-09-18 — [Sypher task cancellation regression test](https://github.com/amwanshul/Sypher/commit/c7bba788591b67f02442a321924619dc8c501a94):** added coverage for pending-task cancellation, dispatch exclusion, and repeated-cancel behavior.
+
 ## 🏛️ Core Engineering Pillars
 
 <table>
