@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <b>B.Tech in Artificial Intelligence & Data Science @ Vishwakarma Institute of Technology (VIT Pune)</b><br>
+  <b>B.Tech in Information Technology @ Vishwakarma Institute of Technology (VIT Pune)</b><br>
   Focused on <b>Autonomous Agents</b>, <b>Production RAG Systems</b>, <b>LLMOps</b>, and <b>High-Performance Backends</b>.
 </p>
 
