@@ -35,6 +35,8 @@ problem → mathematical foundations → system architecture → prototype → b
 ## 🧭 Latest Engineering Work
 
 Recent work is tracked here to keep the profile tied to concrete engineering output rather than static skill claims.
+- **2026-09-21 — [LeetCode #1971: Find if Path Exists in Graph](https://github.com/amwanshul/Leetcode/tree/main/1971-find-if-path-exists-in-graph):** added and compile-tested an iterative DFS solution using an adjacency list, with O(n + e) time and space analysis.
+- **2026-09-20 — [LeetCode #102: Binary Tree Level Order Traversal](https://github.com/amwanshul/Leetcode/tree/main/0102-binary-tree-level-order-traversal):** added breadth-first traversal with queue-based level grouping and documented the O(n) / O(w) complexity.
 
 - **2026-09-19 — [LeetCode #70: Climbing Stairs](https://github.com/amwanshul/Leetcode/tree/main/0070-climbing-stairs):** added a constant-space dynamic-programming solution and documented the state-compression pattern.
 - **2026-09-18 — [Sypher task cancellation regression test](https://github.com/amwanshul/Sypher/commit/c7bba788591b67f02442a321924619dc8c501a94):** added coverage for pending-task cancellation, dispatch exclusion, and repeated-cancel behavior.
