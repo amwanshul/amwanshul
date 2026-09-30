@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amwanshul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/amwanshul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/amwanshul/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="mailto:amwanshul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -22,7 +21,7 @@
 
 ---
 
-## ⚡ Executive Summary
+## 🦁 Executive Summary
 
 I build production-grade AI systems, evidence-grounded retrieval pipelines, and backend architectures. Rather than stitching together fragile API wrappers, I engineer from **first principles** — from mathematical loss functions and numerical optimization to deterministic agent state loops and AST sandboxing.
 
@@ -32,29 +31,28 @@ problem → mathematical foundations → system architecture → prototype → b
 
 ---
 
-## 🧭 Latest Engineering Work
+## 🧠 Latest Engineering Work
 
 Recent work is tracked here to keep the profile tied to concrete engineering output rather than static skill claims.
 - **2026-09-21 — [LeetCode #1971: Find if Path Exists in Graph](https://github.com/amwanshul/Leetcode/tree/main/1971-find-if-path-exists-in-graph):** added and compile-tested an iterative DFS solution using an adjacency list, with O(n + e) time and space analysis.
 - **2026-09-20 — [LeetCode #102: Binary Tree Level Order Traversal](https://github.com/amwanshul/Leetcode/tree/main/0102-binary-tree-level-order-traversal):** added breadth-first traversal with queue-based level grouping and documented the O(n) / O(w) complexity.
-
 - **2026-09-19 — [LeetCode #70: Climbing Stairs](https://github.com/amwanshul/Leetcode/tree/main/0070-climbing-stairs):** added a constant-space dynamic-programming solution and documented the state-compression pattern.
 - **2026-09-18 — [Sypher task cancellation regression test](https://github.com/amwanshul/Sypher/commit/c7bba788591b67f02442a321924619dc8c501a94):** added coverage for pending-task cancellation, dispatch exclusion, and repeated-cancel behavior.
 
-## 🏛️ Core Engineering Pillars
+## 🌐 Core Engineering Pillars
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🤖 Agentic Systems</h3>
+      <h3>🧠 Agentic Systems</h3>
       <p>Building autonomous decision systems combining multimodal perception (voice + screen OCR), reasoning graphs, dynamic tool registries, and AST-level safety execution gates.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔍 Evidence-First RAG</h3>
+      <h3>🔎 Evidence-First RAG</h3>
       <p>Engineering enterprise retrieval pipelines with hybrid lexical/dense search (BM25 + Dense), Reciprocal Rank Fusion (RRF), cross-encoder reranking, and empirical evaluation (Recall@K / MRR).</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🛡️ Network Security & Systems</h3>
+      <h3>🌐 Network Security & Systems</h3>
       <p>Building packet analysis engines, stateful TCP flow trackers, and heuristic intrusion detection systems, alongside low-level C++ algorithmic patterns and mathematical ML optimization from scratch.</p>
     </td>
   </tr>
@@ -62,7 +60,7 @@ Recent work is tracked here to keep the profile tied to concrete engineering out
 
 ---
 
-## 🌟 Spotlight Flagship Projects
+## 🛰️ Spotlight Flagship Projects
 
 ### 🧠 [Sypher — Autonomous AI System Controller for Windows](https://github.com/amwanshul/Sypher)
 > *Bridging multimodal LLM reasoning directly with real desktop operating system execution.*
@@ -72,50 +70,51 @@ Recent work is tracked here to keep the profile tied to concrete engineering out
 [![Architecture](https://img.shields.io/badge/Architecture-Agentic_Loop-success?style=flat-square)](https://github.com/amwanshul/Sypher)
 [![Security](https://img.shields.io/badge/Security-AST_Validation-orange?style=flat-square)](https://github.com/amwanshul/Sypher)
 
-* **Multimodal Perception**: Listens via voice, perceives the active display via screen capture + OCR, and interprets visual context in real time.
-* **AST Security Gate**: Intercepts generated code using Python's Abstract Syntax Tree (`ast`) to eliminate arbitrary injection vulnerabilities before system execution.
-* **Stateful Execution**: Features persistent episodic memory, user approval thresholds for sensitive operations, and dynamic task queuing.
+* **Multimodal Perception:** Listens via voice, perceives the active display via screen capture + OCR, and interprets visual context in real time.
+* **AST Security Gate:** Intercepts generated code using Python's Abstract Syntax Tree (ast) to eliminate arbitrary injection vulnerabilities before system execution.
+* **Stateful Execution:** Features persistent episodic memory, user approval thresholds for sensitive operations, and dynamic task queuing.
 
 ```text
-Voice / Screen Perception ──▶ Reasoning Engine ──▶ AST Security Gate ──▶ OS Execution Engine ──▶ Memory Feedback Loop
+Voice / Screen Perception → Reasoning Engine → AST Security Gate → OS Execution Engine → Memory Feedback Loop
 ```
 
 ---
 
-### 📚 [Grounded RAG Lab — Production Retrieval & Evaluation System](https://github.com/amwanshul/grounded-rag-lab)
+### 🧠 [Grounded RAG Lab — Production Retrieval & Evaluation System](https://github.com/amwanshul/grounded-rag-lab)
 > *Evidence-first document intelligence with hybrid retrieval, reranking, citations, abstention, and golden evaluation.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/amwanshul/grounded-rag-lab)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/amwanshul/grounded-rag-lab)
 [![RAG](https://img.shields.io/badge/RAG-Hybrid_BM25_%2B_Dense-orange?style=flat-square)](https://github.com/amwanshul/grounded-rag-lab)
-[![Eval](https://img.shields.io/badge/Benchmark-Recall%405_%26_MRR-blue?style=flat-square)](https://github.com/amwanshul/grounded-rag-lab)
+[![Eval](https://img.shields.io/badge/Benchmark-Recall%40_%26_MRR-blue?style=flat-square)](https://github.com/amwanshul/grounded-rag-lab)
 [![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square)](https://github.com/amwanshul/grounded-rag-lab)
 
-* **Hybrid Search Engine**: Fuses exact lexical matching (BM25 / TF-IDF) with semantic vector search using Reciprocal Rank Fusion (RRF).
-* **Cross-Encoder Reranker & Abstention**: Re-scores top candidates and enforces a strict confidence threshold — deliberately abstaining when evidence is insufficient to eliminate hallucinations.
-* **Deterministic Evaluation**: Ships with a golden evaluation harness computing Recall@5 and Mean Reciprocal Rank (MRR), complete with CI automation.
+* **Hybrid Search Engine:** Fuses exact lexical matching (BM25 / TF-IDF) with semantic vector search using Reciprocal Rank Fusion (RRF).
+* **Cross-Encoder Reranker & Abstention:** Re-scores top candidates and enforces a strict confidence threshold — deliberately abstaining when evidence is insufficient to eliminate hallucinations.
+* **Deterministic Evaluation:** Ships with a golden evaluation harness computing Recall@5 and Mean Reciprocal Rank (MRR), complete with CI automation.
 
 ```text
-Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion ──▶ Cross-Encoder ──▶ Abstention Check ──▶ Grounded Citations
+Documents → Chunker → [BM25 + Dense Search] → RRF Fusion → Cross-Encoder → Abstention Check → Grounded Citations
 ```
 
 ---
 
-## 🚀 Complete Engineering Portfolio
+## 📊 Complete Engineering Portfolio
 
 | Repository | Focus Area | Key Architectural Signal | Stack |
 |---|---|---|---|
-| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous Agent | Multimodal screen perception, Gemini reasoning, and AST-secured OS execution | `Python` · `Gemini` · `FastAPI` · `WebSockets` |\n| 🤖 **[Agentic Research System](https://github.com/amwanshul/agentic-research-system)** | Autonomous AI Agents | Directed state graph, self-reflection critique loops, AST sandbox & OpenTelemetry tracing | `Python` · `State Graphs` · `Tracing` · `CI/CD` |
-| 📚 **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** | Enterprise Retrieval | Hybrid BM25/Dense search, RRF fusion, cross-encoder reranker & Recall@5 eval | `Python` · `BM25` · `RRF` · `FastAPI` · `CI/CD` |
-| 🛡️ **[Sentinel IDS](https://github.com/amwanshul/sentinel-ids)** | Network Security & IDS | Zero-dependency L2-L7 packet decoder, stateful TCP flow tracking, Port scan, SYN flood, ARP spoofing & DNS entropy heuristics | `Python` · `TCP/IP` · `PCAP` · `Network Forensics` · `CI/CD` |
-| 🤖 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML From Scratch | Gradient descent, MSE loss, binary cross-entropy, custom standardizer & metrics | `Python` · `NumPy` · `Linear Algebra` |
-| 🔎 **[Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)** | Information Retrieval | Inverted index vocabulary, TF-IDF weighting, L2 normalization & cosine ranking | `Python` · `NumPy` · `FastAPI` |
-| 👁️ **[Vision Inspector](https://github.com/amwanshul/vision-inspector)** | Computer Vision | Classical Canny edge detection, contour geometry, circularity metric & CLI | `Python` · `OpenCV` · `Image Processing` |
-| 🧩 **[LeetCode](https://github.com/amwanshul/Leetcode)** | Algorithmic Problem Solving | Pattern-oriented problem catalog (Two Pointers, Hashing, DFS, Heaps) in C++ | `C++17/20` · `Data Structures` · `Algorithms` |
+| 🧠 **[Sypher](https://github.com/amwanshul/Sypher)** | Autonomous Agent | Multimodal screen perception, Gemini reasoning, and AST-secured OS execution | `Python` • `Gemini` • `FastAPI` • `WebSockets` |
+| 🧠 **[Agentic Research System](https://github.com/amwanshul/agentic-research-system)** | Autonomous AI Agents | Directed state graph, self-reflection critique loops, AST sandbox & OpenTelemetry tracing | `Python` • `State Graphs` • `Tracing` • `CI/CD` |
+| 🔎 **[Grounded RAG Lab](https://github.com/amwanshul/grounded-rag-lab)** | Enterprise Retrieval | Hybrid BM25/Dense search, RRF fusion, cross-encoder reranker & Recall@5 eval | `Python` • `BM25` • `RRF` • `FastAPI` • `CI/CD` |
+| 🌐 **[Sentinel IDS](https://github.com/amwanshul/sentinel-ids)** | Network Security & IDS | Zero-dependency L2-L7 packet decoder, stateful TCP flow tracking, Port scan, SYN flood, ARP spoofing & DNS entropy heuristics | `Python` • `TCP/IP` • `PCAP` • `Network Forensics` • `CI/CD` |
+| 📐 **[ML Foundations](https://github.com/amwanshul/ml-foundations)** | ML From Scratch | Gradient descent, MSE loss, binary cross-entropy, custom standardizer & metrics | `Python` • `NumPy` • `Linear Algebra` |
+| 🔍 **[Semantic Search Lab](https://github.com/amwanshul/semantic-search-lab)** | Information Retrieval | Inverted index vocabulary, TF-IDF weighting, L2 normalization & cosine ranking | `Python` • `NumPy` • `FastAPI` |
+| 👁️ **[Vision Inspector](https://github.com/amwanshul/vision-inspector)** | Computer Vision | Classical Canny edge detection, contour geometry, circularity metric & CLI | `Python` • `OpenCV` • `Image Processing` |
+| 🧠 **[LeetCode](https://github.com/amwanshul/Leetcode)** | Algorithmic Problem Solving | Pattern-oriented problem catalog (Two Pointers, Hashing, DFS, Heaps) in C++ | `C++17/20` • `Data Structures` • `Algorithms` |
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🧰 Technical Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,fastapi,docker,git,github,postgres,linux" alt="Tech Skills" />
@@ -130,7 +129,7 @@ Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion
 
 ---
 
-## 🧪 How I Think & Build
+## 🧮 How I Think & Build
 
 - **Systems over Wrappers**: An LLM without a deterministic state graph, security boundaries, and evaluation is just a toy. True AI engineering lives in the architecture around the model.
 - **Empirical Evaluation**: If you can't quantitatively measure your retrieval quality (Recall, MRR), latency, and failure cases, you cannot improve them.
@@ -138,7 +137,7 @@ Documents ──▶ Chunker ──▶ [BM25 + Dense Search] ──▶ RRF Fusion
 
 ---
 
-## 📊 GitHub Analytics & Live Activity
+## 📈 GitHub Analytics & Live Activity
 
 <div align="center">
 
